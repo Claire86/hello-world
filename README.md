@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-hello world program as a test for first repo.
+My first repository!
+- still trying to work everything out. 
